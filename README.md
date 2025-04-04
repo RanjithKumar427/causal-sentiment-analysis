@@ -65,3 +65,16 @@ causal-sentiment-analysis/
 │
 ├── README.md
 └── requirements.txt
+
+---
+
+## ✨ Contact
+
+Feel free to connect with me:
+
+- **LinkedIn:** [Ranjith Kumar](https://www.linkedin.com/in/ranjith-k-2144478a/)
+- **GitHub:** [RanjithKumar427](https://github.com/RanjithKumar427)
+
+I’d love to discuss **Causal Inference**, **NLP**, or any **Data Science collaborations**!
+
+---
